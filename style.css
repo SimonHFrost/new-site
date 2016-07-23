@@ -14,6 +14,12 @@ header {
   background: linear-gradient(135deg, #d39804 0%,#ef0003 100%);
   border: solid white 3px;
   border-radius: 5px;
+  padding: 10px;
+  margin: 0 auto 20px auto;
+  width: 600px;
+}
+
+header, .circle {
   box-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,
                0 3px 0 #bbb,
@@ -26,9 +32,7 @@ header {
                0 5px 10px rgba(0,0,0,.25),
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
-  padding: 10px;
-  margin: 0 auto 20px auto;
-  width: 600px;
+
 }
 
 h1, h2 {
@@ -81,18 +85,6 @@ main {
   margin: 10px;
   width: 100px;
   transition: transform 0.1s ease-out;
-  box-shadow: 0 1px 0 #ccc,
-               0 2px 0 #c9c9c9,
-               0 3px 0 #bbb,
-               0 4px 0 #b9b9b9,
-               0 5px 0 #aaa,
-               0 6px 1px rgba(0,0,0,.1),
-               0 0 5px rgba(0,0,0,.1),
-               0 1px 3px rgba(0,0,0,.3),
-               0 3px 5px rgba(0,0,0,.2),
-               0 5px 10px rgba(0,0,0,.25),
-               0 10px 10px rgba(0,0,0,.2),
-               0 20px 20px rgba(0,0,0,.15);
 }
 
 .circle:hover {
