@@ -3,3 +3,7 @@ header {
   min-width: 274px;
   width: inherit;
 }
+
+main {
+  min-width: 320px;
+}
