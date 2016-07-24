@@ -7,6 +7,6 @@ Icons by the designer Agata from Poland!: http://goodstuffnononsense.com/about/
 TODO
 ----
 
+Favicon
 Flip header and show brief summary, + contact information
 Give brief icon description on hover
-Responsive so it works on mobiles
