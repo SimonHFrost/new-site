@@ -4,6 +4,7 @@ html {
 
 body {
   background: linear-gradient(135deg, #83c783 0%,#009ae8 100%);
+  background-attachment: fixed;
   padding-top: 60px;
   text-align: center;
 }
