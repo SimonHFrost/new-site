@@ -71,7 +71,8 @@ main {
   color: white;
   font-family: 'Montserrat', sans-serif;
   padding: 20px;
-  margin: 0 auto 30px auto;
+  padding-bottom: 50px;
+  margin: 0 auto;
 }
 
 .circle {
