@@ -1,6 +1,6 @@
 header {
   margin: 0 20px 20px 20px;
-  min-width: 274px;
+  min-width: 234px;
   width: inherit;
 }
 
@@ -9,5 +9,5 @@ h1 {
 }
 
 main {
-  min-width: 320px;
+  min-width: 234px;
 }
