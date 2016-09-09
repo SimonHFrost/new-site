@@ -3,10 +3,22 @@ html {
 }
 
 body {
-  background: linear-gradient(135deg, #83c783 0%,#009ae8 100%);
-  background-attachment: fixed;
+  height: 100%;
   padding-top: 60px;
   text-align: center;
+}
+
+.granim-wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.granim {
+  position: absolute;;
+  transform: translate(-50%, -50%);
+  height: 100%;
+  width: 100%;
+  z-index: -1;
 }
 
 header {
