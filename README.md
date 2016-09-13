@@ -1,7 +1,7 @@
 My Personal Website
 ===================
 
- * Icons by the designer Agata from Poland!: http://goodstuffnononsense.com/about/
+ * Icons by the designer Agata: http://goodstuffnononsense.com/about/
  * 3D Text from http://markdotto.com/playground/3d-text/
 
 TODO
