@@ -1,3 +1,7 @@
+body {
+  width: inherit;
+}
+
 header {
   margin: 60px 20px 20px 20px;
   min-width: 234px;
