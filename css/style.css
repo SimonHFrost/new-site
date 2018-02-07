@@ -82,8 +82,17 @@ main {
   border-radius: 100px;
   border: solid white 3px;
   margin: 10px;
+  margin-bottom: 30px;
   width: 100px;
   transition: transform 0.1s ease-out;
+}
+
+.circle h3 {
+  color: white;
+  display: inline-block;
+  top: 50px;
+  outline: none;
+  position: relative;
 }
 
 .circle:hover {
