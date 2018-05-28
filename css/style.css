@@ -1,17 +1,6 @@
 body {
-  height: 100%;
-  position: absolute;
+  background: linear-gradient(#FFE2A8, #FFF4E0) fixed;
   text-align: center;
-  width: 100%;
-}
-
-.granim {
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  z-index: -1;
 }
 
 header {
@@ -89,6 +78,8 @@ main {
 
 .circle h3 {
   color: white;
+  text-shadow: 0 0 5px rgba(0,0,0,.5),
+               0 3px 5px rgba(0,0,0,.5);
   display: inline-block;
   top: 50px;
   outline: none;
