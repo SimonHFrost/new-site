@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lobster.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/montserrat.woff2') format('woff2');
+}
+
 body {
   background: linear-gradient(#FFE2A8, #FFF4E0) fixed;
   text-align: center;
